@@ -1,0 +1,5 @@
+This project is a demonstration of using the **.NET Core Healthchecks API** in a C# console application. The application performs a simple test to check the health of external APIs as well as the built-in tests of an ASP.NET Core application.
+
+The external API test involves reaching out to an API endpoint and verifying that it can be accessed and data is returned. Additionally, the application includes a healthcheck for an ASP.NET Core application, leveraging the built-in health tests provided by the framework.
+
+The purpose of this project is to provide a simple, yet robust example of how to implement healthchecks in a **.NET Core application**. The demonstration of using both external APIs and built-in ASP.NET Core tests showcases the versatility and power of the **Healthchecks API**, making it a valuable tool for ensuring the reliability and stability of your applications.
